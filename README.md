@@ -9,7 +9,7 @@
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt-on-wechat](https://github.com/StuartXuJian/chatgpt-on-wechat)
 
 **ChatGPT网页提示词**：  
-[项目简介] 这个是一个智能聊天机器人网页版，目的是预置固化的提示词和经验来做chatGPT能完成的各种操作。目的是提升chatGPT使用效果。  
+[项目简介] 这个是一个智能聊天机器人网页版，目的是预置固化的提示词和经验来做chatGPT能完成的各种操作。目的是固化chatGPT在工作，学习中的各种应用场景。  
 里面还嵌入了一些实验测试功能，比如工具调用，图片生成和工具整理。   
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt_academic](https://github.com/StuartXuJian/chatgpt_academic)
 
