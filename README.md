@@ -1,6 +1,21 @@
-# 毕设案例
+<h2 align='center'> 毕业设计库 </h2>
 
-打算整理适合作为计算机，软件，电子类专业**毕业设计**的项目。
+<p align="center">
+  <a style="text-decoration:none" href="https://github.com/goldfishh" target="_blank">
+    <img src="https://img.shields.io/pypi/pyversions/chatgpt-tool-hub" alt="Language" />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/goldfishh" target="_blank">
+    <img src="https://img.shields.io/github/license/goldfishh/chatgpt-tool-hub" alt="license " />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/goldfishh" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/w/goldfishh/chatgpt-tool-hub" alt="commit-activity-week " />
+  </a>
+  <a style="text-decoration:none" href="https://pypi.org/project/chatgpt-tool-hub/" target="_blank">
+    <img src="https://img.shields.io/pypi/dw/chatgpt-tool-hub" alt="pypi-download-dw" />
+  </a>
+</p>
+
+整理适合作为计算机，软件，电子类专业**毕业设计**的项目。
 
 第一期：AI应用方向毕设
 
