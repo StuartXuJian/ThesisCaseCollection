@@ -30,6 +30,8 @@
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt_academic](https://github.com/StuartXuJian/chatgpt_academic)
 
 
+<br/>
+
 第二期：待补充  
 
 ---
