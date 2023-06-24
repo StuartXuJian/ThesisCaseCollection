@@ -13,4 +13,4 @@
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt_academic](https://github.com/StuartXuJian/chatgpt_academic)
 
 以上项目均按照说明，测试通过，支持工程部署，实际使用。
-后期打算配合一些视频教程，辅助答辩。
+后期打算配合一些视频教程，文档，辅助答辩。
