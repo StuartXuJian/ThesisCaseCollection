@@ -13,5 +13,11 @@
 里面还嵌入了一些实验测试功能，比如工具调用，图片生成和工具整理。   
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt_academic](https://github.com/StuartXuJian/chatgpt_academic)
 
-以上项目均按照说明，测试通过，支持工程部署，实际使用。  
-后期打算配合一些视频教程，文档，辅助答辩。
+
+提供服务：  
+- 以上项目均按照说明，测试通过，支持工程部署，实际使用。   
+- 后期打算配合一些视频教程，文档，辅助答辩。
+
+
+代码可以免费使用下载。  
+如需实例部署和教学，请联系微信号：WX_Stuart
