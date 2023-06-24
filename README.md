@@ -1,4 +1,5 @@
 <h2 align='center'> 毕业设计库 </h2>
+<p align='center'>整理适合作为计算机，软件，电子类专业毕业设计的项目</p>
 
 <p align="center">
   <a style="text-decoration:none" href="https://github.com/goldfishh" target="_blank">
@@ -15,7 +16,7 @@
   </a>
 </p>
 
-整理适合作为计算机，软件，电子类专业**毕业设计**的项目。
+---
 
 第一期：AI应用方向毕设
 
