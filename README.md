@@ -8,7 +8,7 @@
 [项目简介] 这个工具是一个微信智能聊天机器人，可以实现智能回复消息，以及写文章。  
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt-on-wechat](https://github.com/StuartXuJian/chatgpt-on-wechat)
 
-**ChatGPT学术版**：  
+**ChatGPT网页提示词**：  
 [项目简介] 这个是一个智能聊天机器人网页版，目的是预置固化的提示词来做chatGPT能完成的各种操作。有一些人-机器对接的测试功能。  
 [项目repo地址]：[https://github.com/StuartXuJian/chatgpt_academic](https://github.com/StuartXuJian/chatgpt_academic)
 
